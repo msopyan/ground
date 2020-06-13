@@ -2,7 +2,7 @@
 
 ![Ground preview](https://msopyan.web.id/2683512/78789364-545e7100-79ad-11ea-9e3c-9528c99cda8e.png)
 
-**Ground** is a **Official Website Landing Page** for comapany/designer/developers/makers who want to create a quick and professional landing page for their open source projects, SaaS products, online services, and more.
+**Ground** is a **Official Website Landing Page** for company/designer/developers/makers who want to create a quick and professional landing page for their open source projects, SaaS products, online services, and more.
 
 ## Table of contents
 
