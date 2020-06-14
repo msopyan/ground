@@ -1,16 +1,8 @@
-# Free React landing page template
+# Official Website from Ground
 
-![Open React template preview](https://user-images.githubusercontent.com/2683512/78789364-545e7100-79ad-11ea-9e3c-9528c99cda8e.png)
+![Ground preview](https://msopyan.web.id/2683512/78789364-545e7100-79ad-11ea-9e3c-9528c99cda8e.png)
 
-**Open** is a **free React landing page template designed** for developers/makers who want to create a quick and professional landing page for their open source projects, SaaS products, online services, and more.
-
-Use it for whatever you want, and be sure to reach us out on [Twitter](https://twitter.com/Cruip_com) if you build anything cool/useful with it.
-
-Created and maintained with ❤️ by [Cruip.com](https://cruip.com).
-
-## Live demo
-
-Check the live demo here 👉️ [https://open.cruip.com/](https://open.cruip.com/)
+**Ground** is a **Official Website Landing Page** for company/designer/developers/makers who want to create a quick and professional landing page for their open source projects, SaaS products, online services, and more.
 
 ## Table of contents
 
@@ -31,7 +23,6 @@ Check the live demo here 👉️ [https://open.cruip.com/](https://open.cruip.co
 * [Credits](#credits)
 * [Terms and License](#terms-and-license)
 * [About Us](#about-us)
-* [Stay in the loop](#stay-in-the-loop)
 
 ## Usage
 
@@ -115,20 +106,11 @@ In order to track visitors, you need to set an [environment variable](https://cr
 
 ## Credits
 
-- [Nucleo](https://nucleoapp.com/)
-- [Unsplash](https://unsplash.com/)
+- Icon by Romano_cla and Guerriero_se [Nucleo](https://nucleoapp.com/)
+- Pictures Photo by Annie Spratt [Unsplash](https://unsplash.com/)
 
 ## Terms and License
 
 - Released under the [GPL](https://www.gnu.org/licenses/gpl-3.0.html).
-- Copyright 2020 [Cruip](https://cruip.com/).
 - Use it for personal and commercial projects, but please don’t republish, redistribute, or resell the template.
 - Attribution is not required, although it is really appreciated.
-
-## About Us
-
-We're an Italian developer/designer duo creating high-quality design/code resources for developers, makers, and startups.
-
-## Stay in the loop
-
-If you would like to know when we release new resources, you can follow us on [Twitter](https://twitter.com/Cruip_com), or you can subscribe to our monthly [newsletter](https://cruip.com/#subscribe).
