@@ -110,7 +110,6 @@ In order to track visitors, you need to set an [environment variable](https://cr
 ## Credits
 
 - Icon by Romano_cla and Guerriero_se [Nucleo](https://nucleoapp.com/)
-- Pictures Photo by Annie Spratt [Unsplash](https://unsplash.com/)
 
 ## Terms and License
 
