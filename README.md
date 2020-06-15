@@ -4,7 +4,7 @@
 
 **Ground** is a **Official Website Landing Page** for company/designer/developers/makers who want to create a quick and professional landing page for their open source projects, SaaS products, online services, and more.
 
-# Design Landingpage
+## Design Landingpage
 For design you can check in https://www.figma.com/file/JfzuLXWN58z78vjkRQwffE/Ground
 
 ## Table of contents
